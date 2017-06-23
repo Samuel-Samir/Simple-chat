@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "448026228435",
+    "firebase_url": "https://at3algfinchat-ca927.firebaseio.com",
+    "project_id": "at3algfinchat-ca927",
+    "storage_bucket": "at3algfinchat-ca927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448026228435:android:39d56b5e15313a70",
+        "android_client_info": {
+          "package_name": "com.example.ecss.medicalmapper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448026228435-umfgr7j4hkebgf6o963l67t08c22njo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecss.medicalmapper",
+            "certificate_hash": "c5d0d2b701863f12bfedf7f83d6aa98076056a65"
+          }
+        },
+        {
+          "client_id": "448026228435-chfm67q46momrhbrhn84oompmrg6t931.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHjHNRTO_8d0ax-kycEBAkrkLYKhYSzCY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448026228435-chfm67q46momrhbrhn84oompmrg6t931.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
